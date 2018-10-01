@@ -12,13 +12,15 @@
 }
 
 .ui.centered.grid.container{
-height:76px;
+margin-top: 10px;
 }
 
 .ui.borderless.menu{
-  border-top: none;
   font-size: 14px;
-  height:70px;
+  box-shadow: none;
+  border-top: none;
+  margin-top: 37px;
+
 }
 
 
