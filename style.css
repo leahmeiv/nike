@@ -1,21 +1,24 @@
-.ui.menu{
+.ui.top.menu{
   font-family: Helvetica, "sans-serif";
   font-size: 12px;
+  height: 38px;
 }
 
-.ui.fixed.text.fixed.menu{
+.ui.right.fixed.text.menu{
   font-size: 12px;
   font-family: Helvetica,"sans-serif";
  margin-top: 5px;
+  height: 38px;
 }
 
-.ui.centered.grid.centered{
-  margin-top: 5px;
+.ui.centered.grid.container{
+height:76px;
 }
 
 .ui.borderless.menu{
-  box-shadow: none;
-  border: none;
+  border-top: none;
+  font-size: 14px;
+  height:70px;
 }
 
 
