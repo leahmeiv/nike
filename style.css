@@ -11,17 +11,26 @@
   border-top: none;
 }
 
-.ui.basic.button{
-  font-family: Helvetica, "sans-serif";
-  font-size: 12px;
-}
-
 .ui.fluid.image{
 padding-top: 109px;
 }
+
+.ui.fluid.second.image{
+  padding-top: 20px;
+}
+
+.ui.fluid.third.image{
+  padding-top: 20px;
+}
+
+.ui.fluid.fourth.image{
+  padding-top: 20px;
+}
+
 .ui.nike.image{
   padding-left: 5px;
 }
+
 
 
 
