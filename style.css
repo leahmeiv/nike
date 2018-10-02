@@ -1,13 +1,26 @@
-.ui.topmenu.menu{
+.ui.topmenu.fixed.menu{
   font-family: Helvetica, "sans-serif";
   font-size: 12px;
   height: 38px;
+  box-shadow: none;
+}
+.ui.borderless.fixed.menu{
+  font-size: 14px;
+  z-index: auto;
+  margin-top: 38px;
+  border-top: none;
 }
 
-.ui.secondary.fixed.menu{
-  font-size: 14px;
-  margin-top: 37px;
-  z-index: auto;
+.ui.basic.button{
+  font-family: Helvetica, "sans-serif";
+  font-size: 12px;
+}
+
+.ui.fluid.image{
+padding-top: 109px;
+}
+.ui.nike.image{
+  padding-left: 5px;
 }
 
 
